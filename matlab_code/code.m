@@ -4,3 +4,4 @@ clc;clear;close all;
 im = imread('C:\Users\Dell\Downloads\2dshapes.png');
 
 //show the image
+imshow(im);
