@@ -10,5 +10,6 @@ title('Original Image');
 //Convert into gray scale.
 imgray = rgb2gray(im);
 
+//show the gray scaled image
 figure;imshow(imgray);
 title('Gray scale Image');
