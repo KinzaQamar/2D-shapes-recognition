@@ -1,3 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Create Date:    							                                                                       //
+// Design Name:    PWM Verification IP                                                                 //
+// Module Name:    								                                                                     //
+// Project Name:   2D geometric shape recognition                                                      //
+// Language:                                                                       										 //
+//                                                                                                     //
+// Description:                                                                                        //
+//            																																				 		             //
+// Revision Date:  							                                                                       //
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 clc;clear;close all;
 
 //Read the image
