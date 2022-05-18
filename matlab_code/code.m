@@ -29,3 +29,4 @@ title('Gray scale Image');
 //Convert the gray scale image into binary image
 imbw = imbinarize(imgray);
 figure;imshow(imbw);
+title('Binary Image');
