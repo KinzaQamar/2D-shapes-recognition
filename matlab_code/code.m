@@ -15,3 +15,4 @@ figure;imshow(imgray);
 title('Gray scale Image');
 
 //Convert the gray scale image into binary image
+imbw = imbinarize(imgray);
