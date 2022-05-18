@@ -1,8 +1,9 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Author Name: 	Kinza Qamar Zaman																																		 //
 // Create Date:    							                                                                       //
-// Design Name:    PWM Verification IP                                                                 //
+// Design Name:   PWM Verification IP                                                                  //
 // Module Name:    								                                                                     //
-// Project Name:   2D geometric shape recognition                                                      //
+// Project Name:  2D geometric shape recognition                            	                         //
 // Language:                                                                       										 //
 //                                                                                                     //
 // Description:                                                                                        //
