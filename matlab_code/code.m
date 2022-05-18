@@ -13,3 +13,5 @@ imgray = rgb2gray(im);
 //show the gray scaled image
 figure;imshow(imgray);
 title('Gray scale Image');
+
+//Convert the gray scale image into binary image
