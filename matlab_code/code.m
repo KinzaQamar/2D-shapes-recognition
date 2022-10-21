@@ -1,8 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Author Name: 	Kinza Qamar Zaman																																		 //
 // Create Date:    							                                                                       //
-// Design Name:   PWM Verification IP                                                                  //
-// Module Name:    								                                                                     //
 // Project Name:  2D geometric shape recognition                            	                         //
 // Language:                                                                       										 //
 //                                                                                                     //
@@ -14,7 +12,7 @@
 clc;clear;close all;
 
 //Read the image
-im = imread('C:\Users\Dell\Downloads\2dshapes.png');
+im = imread('/home/$USER/picture.ext');
 
 //show the image
 imshow(im);
