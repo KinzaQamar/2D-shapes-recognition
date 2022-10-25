@@ -34,9 +34,11 @@ title('Binary Image');
 imedge=edge(imgray,'canny');
 figure ;imshow(imedge);
 title('Egde Detection of original Image');
+
 imfill = imfill(imedge,'holes');
 figure;imshow(imfill);
 title('Filled image');
+
 [L,N] = bwlabel(imfill)
 area = regionprops(L,'area')
 %imareafilt = bwareaopen(imfill,500);
